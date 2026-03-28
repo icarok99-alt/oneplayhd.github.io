@@ -550,7 +550,7 @@ v1.0.0
       </assets>
     </extension>
   </addon>
-  <addon id="plugin.video.onevip" version="1.0.4" name="[B][COLOR aquamarine]ONE[/COLOR][COLOR white]PLAY [COLOR aquamarine]VIP[/COLOR]2[/COLOR][/B]" provider-name="OnePlay">
+  <addon id="plugin.video.onevip" version="1.0.5" name="[COLOR aquamarine]ONE[COLOR white]PLAY [COLOR aquamarine]VIP[/COLOR]2" provider-name="OnePlay">
     <requires>
       <import addon="script.module.simplejson"/>
       <import addon="script.module.six"/>
