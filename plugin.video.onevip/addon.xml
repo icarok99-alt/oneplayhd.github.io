@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.onevip" 
-       version="1.0.4" 
-	   name="[B][COLOR aquamarine]ONE[/COLOR][COLOR white]PLAY [COLOR aquamarine]VIP[/COLOR]2[/COLOR][/B]" 
+       version="1.0.5" 
+	   name="[COLOR aquamarine]ONE[COLOR white]PLAY [COLOR aquamarine]VIP[/COLOR]2" 
 	   provider-name="OnePlay">
     <requires>
         <import addon="script.module.simplejson" />
