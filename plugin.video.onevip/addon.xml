@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.onevip" 
-       version="1.0.4" 
-	   name="[B][COLOR aquamarine]ONE[/COLOR][COLOR white]PLAY [COLOR aquamarine]VIP[/COLOR]2[/COLOR][/B]" 
+       version="1.0.5" 
+	   name="ONEPLAY VIP BETA" 
 	   provider-name="OnePlay">
     <requires>
         <import addon="script.module.simplejson" />
@@ -14,8 +14,8 @@
         <provides>video</provides>
     </extension>  
     <extension point="xbmc.addon.metadata">
-		<summary lang="pt">OnePlay VIP é um plugin baseado no aplicativo OnePlay Alpha para TV BOX ou ANDROID TV.</summary>
-		<description lang="pt">Essa é uma versão semelhante ao OnePlay Alpha nem tudo é igual ao app oficial e a recomendação.</description>
+		<summary lang="pt">OnePlay VIP é um plugin baseado no aplicativo OnePlay Alpha para dispositivos TV BOX ou PC e Notebook.</summary>
+		<description lang="pt">Essa é uma versão semelhante ao OnePlay Alpha com algumas diferenças até porque se trata e um addon para o KODI.</description>
         <description></description>
         <platform>all</platform>
         <assets>
