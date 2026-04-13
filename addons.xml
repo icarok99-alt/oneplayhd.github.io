@@ -1811,11 +1811,12 @@
       </assets>
     </extension>
   </addon>
-  <addon id="service.subtitles.legendei" name="Legendei" version="0.0.8" provider-name="zoreu">
+  <addon id="service.subtitles.legendei" name="Legendei" version="0.0.9" provider-name="zoreu">
     <requires>
       <import addon="script.module.kodi-six"/>
       <import addon="script.module.beautifulsoup4"/>
       <import addon="script.module.requests"/>
+      <import addon="script.module.aws-solver"/>
       <import addon="vfs.rar"/>
     </requires>
     <extension point="xbmc.subtitle.module" library="legendei.py"/>
